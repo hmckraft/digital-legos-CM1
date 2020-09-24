@@ -1,0 +1,52 @@
+
+.nav {
+    margin: 10px;
+}
+
+ul {
+    height: 50px;
+    background-color: rgb(199, 121, 121);
+}
+
+.nav-link {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-top: 13px;
+    
+
+}
+
+
+#hero {
+    width: 601px;
+}
+
+#image {
+    height: 594px;
+}
+
+
+h1 {
+    position: absolute;
+    top: 300px;
+    left: 325px;
+    color: rgb(199, 121, 121);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+
+.cardrow {
+    margin-top: 10px;
+    display: flex;
+}
+
+.column {
+    flex: 33%;
+    padding: 10px;
+}
