@@ -50,3 +50,12 @@ h1 {
     flex: 33%;
     padding: 10px;
 }
+
+#carouselExampleControls {
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    
+    
+    
+  }
